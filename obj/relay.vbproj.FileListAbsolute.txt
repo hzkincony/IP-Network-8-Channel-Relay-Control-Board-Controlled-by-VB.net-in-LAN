@@ -1,0 +1,10 @@
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\bin\Debug\relay.exe
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\bin\Debug\relay.pdb
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\bin\Debug\relay.xml
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\_KC868硬件测试.Form1.resources
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\_KC868硬件测试.Resources.resources
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\relay.vbproj.GenerateResource.Cache
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\relay.exe
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\relay.xml
+C:\Users\ibm\Desktop\32relay-demo_eng\kc868-h8_h32_vb_demo_source\obj\Debug\relay.pdb
